@@ -1,17 +1,9 @@
 <p align="center">
-  <h2 align="center">Fate Zeros</h2>
+  <h2 align="center">Day By Day Through By Through 👋👋👋 ✨✨✨</h2>
 </p>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-        <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/sunniejs/vue-h5-template">
-        <img alt="github"
-            src="https://img.shields.io/github/stars/sunniejs/vue-h5-template?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
-    </a>
-   
-</p>
+
 </br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
@@ -35,8 +27,6 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🍃 **热衷新技术**，追求新技术，并应用新技术到实际的项目中
@@ -47,7 +37,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | HTML | CSS | Vue3 | React
+- 💻 &nbsp; JavaScript | HTML | CSS | Vue2 | Vue3 | React
 - 🌐 &nbsp; Node | Golang
 - 🛢 &nbsp; MySQL | Docker | Nginx | Jenkins
-- 🔧 &nbsp; Visual Studio code | DevOps | Git
+- 🔧 &nbsp; Visual Studio code | Git
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FateZeros&theme=prussian)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FateZeros&show_icons=true&theme=synthwave&repo=remote-adny)](https://github.com/anuraghazra/github-readme-stats)
