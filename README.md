@@ -25,6 +25,8 @@
 
 <br />
 
+<h3> 👃 Git Stats </h3>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FateZeros&theme=tokyonight)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FateZeros&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 👨🏻‍💻 About Me </h3>
