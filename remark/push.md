@@ -27,4 +27,21 @@ sudo killall -HUP mDNSResponder
 
 [Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/)
 
+## 修改 gitconfig
+
+1. 修改当前 git 项目的 config
+
+```bash
+cd .git
+
+git config user.name [name]
+git config user.email [email]
+```
+
+2. 查看全局 git config
+
+```bash
+open ~/.gitconfig
+```
+
 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
