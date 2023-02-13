@@ -40,6 +40,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | HTML | CSS | Vue2 | Vue3 | React
+- 🐒 &nbsp; Electron | 微信小程序 ｜ qiankun
 - 🌐 &nbsp; Node | Golang
 - 🛢 &nbsp; MySQL | Docker | Nginx | Jenkins
 - 🔧 &nbsp; Visual Studio code | Git
