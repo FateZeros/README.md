@@ -44,3 +44,5 @@ git config user.email [email]
 ```bash
 open ~/.gitconfig
 ```
+
+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
