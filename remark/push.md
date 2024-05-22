@@ -1,5 +1,6 @@
 # PUSH
 
+```bash
 echo "# README.md" >> README.md
 git init
 git add README.md
@@ -7,6 +8,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/FateZeros/README.md.git
 git push -u origin main
+```
 
 ## github clone 443
 
@@ -21,7 +23,6 @@ git push -u origin main
 ```bash
 sudo killall -HUP mDNSResponder
 ```
-
 
 ## Streak Stats
 
@@ -45,4 +46,3 @@ open ~/.gitconfig
 ```
 
 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
-

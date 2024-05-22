@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/wechat_miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
   <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 </div>
 
 <div>
@@ -39,7 +41,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | HTML | CSS | Vue2 | Vue3 | React
+- 💻 &nbsp; JavaScript | HTML | CSS | Vue2 | Vue3 | React | Nextjs | Tailwind | Prisma
 - 🐒 &nbsp; Electron | 微信小程序 ｜ qiankun
 - 🌐 &nbsp; Node | Golang
 - 🛢 &nbsp; MySQL | Docker | Nginx | Jenkins
